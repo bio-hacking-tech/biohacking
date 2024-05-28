@@ -27,7 +27,7 @@ The computational requirements are minimal to allow deployment on virtual machin
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/biohacking.git
+   git clone https://github.com/bio-hacking-tech/biohacking.git
    cd digital-biohacking-diet
 
 ## License
