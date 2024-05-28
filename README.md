@@ -29,3 +29,12 @@ The computational requirements are minimal to allow deployment on virtual machin
    ```sh
    git clone https://github.com/your-username/biohacking.git
    cd digital-biohacking-diet
+
+## License
+This project is distributed under the MIT License. See the LICENSE file for more details.
+
+## References
+Reference article: "Abeltino, A.; Bianchetti, G.; Serantoni, C.; Ardito, C.F.; Malta, D.; De Spirito, M.; Maulucci, G. Personalized Metabolic Avatar: A Data Driven Model of Metabolism for Weight Variation Forecasting and Diet Plan Evaluation. Nutrients 2022, 14, 3520. https://doi.org/10.3390/nu14173520"
+
+## Contact
+For questions or more information, please contact Giuseppe Maulucci at giuseppe.maulucci@unicatt.it.
